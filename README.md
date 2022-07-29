@@ -1,6 +1,6 @@
 # vfsa_1d
 
-This package demonstrate who one can parametrize a VFSA optimization algorithm for a 1D objective functions.
+This package demonstrates how one can parametrize a VFSA optimization algorithm for a 1D objective functions.
 
 Simply run this code "vfsa_1d_v01.m" and it will find all the dependencies.
 
